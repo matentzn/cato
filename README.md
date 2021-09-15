@@ -2,7 +2,7 @@
 ![Build Status](https://github.com/matentzn/cato/workflows/CI/badge.svg)
 # The Cat Ontology (CATO)
 
-Description: This is an example ontology about cats.
+Description: This is an example ontology about cats..
 
 More information can be found at http://obofoundry.org/ontology/cato
 
