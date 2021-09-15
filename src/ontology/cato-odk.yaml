@@ -1,0 +1,18 @@
+edit_format: owl
+export_formats:
+- owl
+- obo
+- json
+github_org: matentzn
+id: cato
+import_group:
+  products:
+  - id: omo
+primary_release: full
+reasoner: ELK
+release_artefacts:
+- full
+- base
+repo: cato
+title: "The Cat Ontology (CATO)"
+description: "This is an example ontology about cats."
