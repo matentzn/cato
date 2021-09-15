@@ -1,0 +1,13 @@
+format-version: 1.2
+data-version: cato/releases/2021-09-15/cato-base.owl
+ontology: cato/cato-base
+property_value: http://purl.org/dc/elements/1.1/description "This is an example ontology about cats." xsd:string
+property_value: http://purl.org/dc/elements/1.1/title "The Cat Ontology (CATO)" xsd:string
+property_value: http://purl.org/dc/elements/1.1/type IAO:8000001
+property_value: http://purl.org/dc/terms/license https://creativecommons.org/licenses/unspecified
+property_value: owl:versionInfo "2021-09-15" xsd:string
+
+[Term]
+id: CATO:00000000
+name: root node
+
